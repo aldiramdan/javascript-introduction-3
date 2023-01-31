@@ -1,0 +1,28 @@
+{
+  "name": "week2-node",
+  "version": "1.0.0",
+  "description": "Tugas Node JS",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"hello worlds\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aldiramdan/nodejs.git"
+  },
+  "keywords": [
+    "nodejs",
+    "javascript"
+  ],
+  "author": "aldiramdan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aldiramdan/nodejs/issues"
+  },
+  "homepage": "https://github.com/aldiramdan/nodejs#readme",
+  "dependencies": {
+    "moment": "^2.29.4",
+    "what-day-id": "^1.0.3"
+  }
+}
